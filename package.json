@@ -1,0 +1,27 @@
+{
+  "name": "dataanalysis",
+  "version": "1.0.0",
+  "description": "data analysis",
+  "main": "index.js",
+  "dependencies": {
+    "koa": "^2.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crazy-calf/dataAnalysis.git"
+  },
+  "keywords": [
+    "DA"
+  ],
+  "author": "cr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Crazy-calf/dataAnalysis/issues"
+  },
+  "homepage": "https://github.com/Crazy-calf/dataAnalysis#readme"
+}
