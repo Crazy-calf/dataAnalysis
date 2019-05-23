@@ -4,7 +4,8 @@
   "description": "data analysis",
   "main": "index.js",
   "dependencies": {
-    "koa": "^2.7.0"
+    "koa": "^2.7.0",
+    "koa-router": "7.0.0"
   },
   "devDependencies": {},
   "scripts": {
